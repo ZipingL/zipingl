@@ -23,7 +23,7 @@ I'm Ziping Liu [![wakatime](https://wakatime.com/badge/user/e012350f-8b4a-4ec4-a
 
 - Learn more about me through my portfolio website at [www.linkedinliu.com](https://www.linkedinliu.com/?utm_source=zipingl.github.io). You'll find details about my background, coursework, career experiences, and projects.  The site also features a locally hosted, fine-tuned chat assistant designed to answer your questions as a digital representation of myself!
 
-![Languages over last 7 days](https://wakatime.com/share/@AWS/ba631904-3d20-4bab-a021-25bd0654fcce.svg)
+![Languages over last 7 days](https://wakatime.com/share/@AWS/88a0dc24-fbe2-4e1a-928c-b64b09acc456.svg)
 
 ![OS](https://wakatime.com/share/@AWS/f3ac0359-141f-43f8-a6ca-286afdcbcc76.svg)
 
